@@ -1,2 +1,2 @@
-# person.rb
+Class
 def 

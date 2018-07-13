@@ -1,4 +1,4 @@
-#person.
+#person.rb
 
 class Person
   
